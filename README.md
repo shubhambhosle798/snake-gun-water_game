@@ -47,6 +47,7 @@ To get started with the Snake-Gun-Water Game, follow these steps:
    python main.py
    ```
    or
+   
    ```bash
    python main_short_version.py
    ```
