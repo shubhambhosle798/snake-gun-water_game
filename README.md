@@ -38,9 +38,9 @@ To get started with the Snake-Gun-Water Game, follow these steps:
    ```bash
    git clone https://github.com/shubhambhosle798/snake-gun-water_game.git
 2. **Navigate to the Project Directory**:
-  ```bash
-cd snake-gun-water_game
-```
+   ```bash
+   cd snake-gun-water_game
+   ```
 3. **Run the Game:**
    Execute one of the Python scripts using Python 3:
    ```bash
