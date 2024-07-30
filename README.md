@@ -5,9 +5,9 @@ Welcome to the Snake-Gun-Water Game repository! This project features two implem
 ## Game Description
 
 In this game:
-- **Snake** (s) beats **Gun** (g)
-- **Gun** (g) beats **Water** (w)
-- **Water** (w) beats **Snake** (s)
+- **Snake** (s) beats **Water** (w)
+- **Gun** (g) beats **Snake** (s)
+- **Water** (w) beats **Gun** (g)
 
 The game is a fun twist on the traditional Rock-Paper-Scissors, integrating three unique choices with a randomized computer opponent.
 
