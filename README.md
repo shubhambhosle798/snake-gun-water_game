@@ -68,4 +68,4 @@ Contributions to the Snake-Gun-Water Game project are welcome! If you have ideas
 ## Contact
 For any questions or feedback, please reach out to bhosleshubham798@gmail.com or open an issue in the repository.
 
-## Thank you for visiting the Snake-Gun-Water Game repository:)
+## Thank you for visiting the Snake-Gun-Water Game repository :)
